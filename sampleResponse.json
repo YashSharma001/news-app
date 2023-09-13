@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Sports Desk",
+            "title": "‘Eleven months is…’: AUS legend's no-nonsense statement on Bumrah's comeback - Hindustan Times",
+            "description": "The legendary Australian pacer feels Jasprit Bumrah can make an instant impact for Team India despite missing the entire home season.  | Cricket",
+            "url": "https://www.hindustantimes.com/cricket/glenn-mcgrath-no-nonsense-take-jasprit-bumrah-comeback-11-months-long-time-but-australia-legend-india-vs-ireland-101691466226362.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/08/08/1600x900/CRICKET-INDIA--0_1691469364631_1691469389652.JPG",
+            "publishedAt": "2023-08-08T04:37:46Z",
+            "content": "Brimming with confidence as the hosts of the showpiece event, Rohit Sharma's Team India will enter the ICC World Cup 2023 as favourites if pace ace Jasprit Bumrah regains his form in the lead-up to t… [+3103 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Cricket Times"
+            },
+            "author": "Akshat Gaur",
+            "title": "WI vs IND 2023, 3rd T20I: Match Prediction, Dream11 Team, Fantasy Tips & Pitch Report | West Indies vs India - Cricket Times",
+            "description": "West Indies and India are set to ignite the cricketing arena with an electrifying battle as they lock horns for the third T20 International of the five-match series on Tuesday, August 8. The historic Providence Stadium in Guyana will play host to this intense…",
+            "url": "https://crickettimes.com/2023/08/wi-vs-ind-2023-3rd-t20i-match-prediction-dream11-team-fantasy-tips-pitch-report-west-indies-vs-india/",
+            "urlToImage": "https://crickettimes.com/wp-content/uploads/2023/08/WI-vs-IND-3rd-T20I-Dream11-Prediction.webp",
+            "publishedAt": "2023-08-08T02:20:39Z",
+            "content": "West Indies and India are set to ignite the cricketing arena with an electrifying battle as they lock horns for the third T20 International of the five-match series on Tuesday, August 8. The historic… [+2368 chars]"
+        }
+    ]
+}
